@@ -38,10 +38,6 @@ Voting power is evaluated using:
 - Banzhaf Power Index
 - Shapley–Shubik Index
 
-## Research Paper
-
-[Read the full research paper](./Voting_Power_Beyond_Formal_Authority.pdf)
-
 ## References
 
 Banzhaf, J. F. (1965). Weighted voting doesn't work: A mathematical
